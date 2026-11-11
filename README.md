@@ -2,7 +2,7 @@
 
 Most people online know me as **Yoru**.
 
-I'm a developer living in Osaka, Japan 🇯🇵. I spend a good amount of my time coding, learning new things, and occasionally getting lost in random ideas that turn into little projects.
+I'm a developer living in Osaka, Japan. I spend a good amount of my time coding, learning new things, and occasionally getting lost in random ideas that turn into little projects.
 
 I'm not someone who knows everything about programming. I just enjoy creating things, solving problems, and seeing an idea slowly come to life.
 
