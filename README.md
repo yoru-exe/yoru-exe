@@ -1,6 +1,6 @@
 # Hey, I'm Haruto 👋
 
-Most people here know me as **Yoru**.
+Most people online know me as **Yoru**.
 
 I'm a developer living in Osaka, Japan 🇯🇵. I spend a good amount of my time coding, learning new things, and occasionally getting lost in random ideas that turn into little projects.
 
@@ -8,7 +8,7 @@ I'm not someone who knows everything about programming. I just enjoy creating th
 
 A little more about me:
 
-- 🌙 I go by Yoru online, but my real name is Haruto.
+- 🌙 I go by Yoru on the internet, but my real name is Haruto.
 - 📍 Born and living in Osaka, Japan.
 - 💼 Working at IMM Tech Ltd. for the past 2 years.
 - 💻 I enjoy building things for the web and exploring new technologies.
