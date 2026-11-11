@@ -29,4 +29,4 @@ Anyway, that's a little about me.
 
 Thanks for stopping by. Hope you find something interesting here! :)
 
-よろしくお願いします 🇯🇵
+創造し続けろ
